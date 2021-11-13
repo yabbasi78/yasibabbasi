@@ -17,8 +17,5 @@ import { Component } from '@angular/core';
     `,
 })
 export class AppComponent {
-  // <h1>Product Managment System</h1>
-  //          <app-product-list></app-product-list>
-
   pageTitle: string = "Product App";
 }
